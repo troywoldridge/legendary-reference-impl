@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+.env
+.env.*
+node_modules
+.next
+
+# accidental junk files
+legendary-reference-impl@0.1.0
+drizzle-kit
+FETCH_HEAD
